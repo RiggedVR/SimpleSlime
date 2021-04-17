@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "#C"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "C": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "minecraft:slime_ball",
+    "count": 3
+  }
+}
